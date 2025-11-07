@@ -58,10 +58,27 @@ npm run dev
 ```
 
 ## 📸 Screenshots
-<img width="1906" height="875" alt="HOME PAGE" src="https://github.com/user-attachments/assets/2832af4f-8b71-401f-9053-50fb7599dda6" />
-<img width="515" height="602" alt="CART VIEW" src="https://github.com/user-attachments/assets/dd909035-2870-4d21-a35b-fa2e6a88a47b" />
-<img width="533" height="738" alt="CHECKOUT VIEW" src="https://github.com/user-attachments/assets/6cb6c7d7-dfa1-47d6-9474-11e314488518" />
-<img width="438" height="419" alt="RECEIPT VIEW" src="https://github.com/user-attachments/assets/1b483f6c-7d6b-40a0-af19-547503ead543" />
+
+<p align="center">
+  <strong>🏠 HOME PAGE</strong><br>
+  <img src="https://github.com/user-attachments/assets/2832af4f-8b71-401f-9053-50fb7599dda6" alt="HOME PAGE" width="85%">
+</p>
+
+<p align="center">
+  <strong>🛒 CART VIEW</strong><br>
+  <img src="https://github.com/user-attachments/assets/dd909035-2870-4d21-a35b-fa2e6a88a47b" alt="CART VIEW" width="40%">
+</p>
+
+<p align="center">
+  <strong>💳 CHECKOUT VIEW</strong><br>
+  <img src="https://github.com/user-attachments/assets/6cb6c7d7-dfa1-47d6-9474-11e314488518" alt="CHECKOUT VIEW" width="45%">
+</p>
+
+<p align="center">
+  <strong>📜 RECEIPT VIEW</strong><br>
+  <img src="https://github.com/user-attachments/assets/1b483f6c-7d6b-40a0-af19-547503ead543" alt="RECEIPT VIEW" width="40%">
+</p>
+
 
 
 
