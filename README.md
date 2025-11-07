@@ -27,7 +27,9 @@ This project demonstrates API, DB, and UI integration for e-commerce flows — a
 ```bash
 cd backend
 npm install
+```
 #####.env 
+```
 PORT=4000
 DB_PATH=./vibe.db
 NODE_ENV=development
@@ -38,18 +40,18 @@ npm install node-fetch@2(optional)
 node seed-fakestore.js(optional)
 
 npm run dev
-
-
----
+````
 
 ### 💻 3. Frontend Setup
 
 #### 📁 Navigate to the frontend folder
 ```bash
-cd ../frontend
+cd frontend
 npm install
+```
 ####.env.local
 REACT_APP_API_URL=http://localhost:4000
 REACT_APP_USER_ID=1
 
 npm run dev
+```
