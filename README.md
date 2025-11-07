@@ -5,7 +5,7 @@ This project demonstrates API, DB, and UI integration for e-commerce flows — a
 
 ---
 
-## DEMO VIDEI : [https://drive.google.com/file/d/1C-Gs3ThmrcHuh9apNwGnQWhdxpNyhHmt/view?usp=sharing]
+## DEMO VIDEO : [https://drive.google.com/file/d/1C-Gs3ThmrcHuh9apNwGnQWhdxpNyhHmt/view?usp=sharing]
 
 ## 🧠 Tech Stack
 
