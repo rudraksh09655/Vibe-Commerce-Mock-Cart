@@ -28,7 +28,7 @@ This project demonstrates API, DB, and UI integration for e-commerce flows — a
 cd backend
 npm install
 ```
-#####.env 
+##### .env 
 ```
 PORT=4000
 DB_PATH=./vibe.db
@@ -49,7 +49,8 @@ npm run dev
 cd frontend
 npm install
 ```
-####.env.local
+#### .env.local
+```
 REACT_APP_API_URL=http://localhost:4000
 REACT_APP_USER_ID=1
 
