@@ -1,0 +1,57 @@
+# ===============================
+# Root .gitignore for Vibe Commerce
+# ===============================
+
+# --- Node modules ---
+node_modules/
+
+# --- Environment files (never push secrets) ---
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# --- Logs ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# --- Databases / local data ---
+*.db
+*.sqlite
+*.sqlite3
+vibe.db
+
+# --- OS / Editor files ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# --- Build / Cache folders ---
+dist/
+build/
+.cache/
+.tmp/
+coverage/
+parcel-cache/
+*.tsbuildinfo
+
+# --- React build outputs ---
+frontend/build/
+frontend/dist/
+frontend/node_modules/
+
+# --- Backend node modules ---
+backend/node_modules/
+
+# --- Misc ---
+*.bak
+*.swp
+*.lock
+
+# --- Optional: test artifacts ---
+jest-html-reporters-*
